@@ -1,5 +1,5 @@
-# Info
-Private repositories
+# Repositories
+This is the list of Cubiqo private repositories. Please contact craveromaximiliano@gmail.com if you need more information about any of them:
 
 - **cbq-redfox**: High-performance, multilingual luxury car rental platform for international markets (Europe & UAE). Implemented secure customer booking workflows, including quote requests and CRM integration for lead follow-up.<br/>https://redfoxluxurycarhire.com/en
 - **cbq-clinic-api**: Source code of the backend API developed with Django and Django REST Framework for an obstetric clinic’s medical management system.
